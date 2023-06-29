@@ -19,3 +19,14 @@ Adjustable Parameters: The system will offer adjustable parameters to optimize t
 Performance Metrics: The project can include the calculation of pedestrian count, allowing users to analyze the flow of pedestrians throughout the video.
 
 Visualization: The detected pedestrians and bounding boxes will be visually represented on the video frames, enhancing the clarity of the detection results.
+
+
+### Result
+
+The following images show the detection taking place on a pre-recorded video feed of pedestrians.
+
+![image](https://github.com/nivgokul/Pedestrian-Detection-Project/assets/117058119/cbeb1e5a-b1ee-4021-9000-c5788b98c2dd)
+
+![image](https://github.com/nivgokul/Pedestrian-Detection-Project/assets/117058119/8750de23-81e5-4f60-a7b9-8f64bafd6add)
+
+![image](https://github.com/nivgokul/Pedestrian-Detection-Project/assets/117058119/2682f33d-d0be-4ab3-b947-7992e292f8a3)
